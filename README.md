@@ -47,7 +47,7 @@ for word in words:
 # Print the synonyms and antonyms
 print ( "Synonyms : " ,set (synonyms) )
 print ( "Antonyms : " ,set(antonyms) )
-
+```
 
 <H3>Output</H3>
 
